@@ -1,0 +1,10 @@
+.body {
+  background-color: gray;
+}
+
+.button-div {
+  margin: auto;
+  margin-top: 200px;
+  width: 10%;
+  padding: 10px;
+}
