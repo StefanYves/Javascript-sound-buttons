@@ -1,10 +1,14 @@
 .body {
-  background-color: gray;
+  background-color: rgb(71, 69, 69);
 }
 
 .button-div {
   margin: auto;
   margin-top: 200px;
-  width: 10%;
+  width: 20%;
   padding: 10px;
+}
+
+.img-size {
+  width: 100px;
 }
